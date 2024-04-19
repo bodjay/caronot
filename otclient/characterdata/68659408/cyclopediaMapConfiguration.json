@@ -1,0 +1,13 @@
+{
+    "areaID": 276,
+    "selectedMarkers": [
+    ],
+    "shadingValue": 0,
+    "showAreaAndSubAreaInfo": true,
+    "showDisplay": false,
+    "showHouseMarker": false,
+    "showNPCMarker": false,
+    "showNavigation": false,
+    "showPassageMarker": false,
+    "surfaceView": true
+}

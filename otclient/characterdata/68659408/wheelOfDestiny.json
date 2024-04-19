@@ -1,0 +1,28 @@
+{
+    "presets": [
+        {
+            "exportString": "D0Y2CAAm9xEGnEgAX8RwIA",
+            "name": "Energy Resist (+heal friend)"
+        },
+        {
+            "exportString": "D0Y2CAAG9xEGnEgA38RwIA",
+            "name": "Hole resist (+magic)"
+        },
+        {
+            "exportString": "D0Y2CAAXEQYeTNgAn-IwEA",
+            "name": "Life leech (+heal friend)"
+        },
+        {
+            "exportString": "D0Y2DAAoy8wZQ4lPsfCQAA",
+            "name": "Magic Level (+frigo resist)"
+        },
+        {
+            "exportString": "D0Y2BAAFlvIwZs4D8SAAA",
+            "name": "Magic Level (+terra wave)"
+        },
+        {
+            "exportString": "D0Y2BABwreRmgi_5EAAA",
+            "name": "Mana Leech (+frigo hur)"
+        }
+    ]
+}
